@@ -1,0 +1,28 @@
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\bin\Debug\ga1 Heinzel Perez.exe.config
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\bin\Debug\ga1 Heinzel Perez.exe
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\bin\Debug\ga1 Heinzel Perez.pdb
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\bin\Debug\ga1 Heinzel Perez.xml
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.vbprojResolveAssemblyReference.cache
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.administrador.resources
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.cliente.resources
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.Form1.resources
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.Resources.resources
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.secretario.resources
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.vbproj.GenerateResource.Cache
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.exe
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.xml
+c:\users\lape4\documents\visual studio 2015\Projects\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.pdb
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\bin\Debug\ga1 Heinzel Perez.exe.config
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.exe
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.xml
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.pdb
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\bin\Debug\ga1 Heinzel Perez.exe
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\bin\Debug\ga1 Heinzel Perez.pdb
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\bin\Debug\ga1 Heinzel Perez.xml
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.vbprojResolveAssemblyReference.cache
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.administrador.resources
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.cliente.resources
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.Form1.resources
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.Resources.resources
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1_Heinzel_Perez.secretario.resources
+C:\Users\PC20LAB4\Desktop\ga1 Heinzel Perez\ga1 Heinzel Perez\obj\Debug\ga1 Heinzel Perez.vbproj.GenerateResource.Cache
